@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.10.25)  8 JAN 2017 00:30
+This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.10.25)  8 JAN 2017 00:48
 entering extended mode
 **Paper.tex
 (Paper.tex
@@ -97,7 +97,31 @@ File: babel.def 2015/08/03 3.9m Babel common definitions
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: xetex.def on input line 94.
+
+("C:\Program Files\MiKTeX 2.9\tex\xelatex\xetex-def\xetex.def"
+File: xetex.def 2015/09/11 v4.06 LaTeX color/graphics driver for XeTeX (TeX Live/RRM/JK)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
@@ -114,14 +138,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@cnth=\count108
 \Gm@cntv=\count109
 \c@Gm@tempcnt=\count110
-\Gm@bindingoffset=\dimen105
-\Gm@wd@mp=\dimen106
-\Gm@odd@mp=\dimen107
-\Gm@even@mp=\dimen108
-\Gm@layoutwidth=\dimen109
-\Gm@layoutheight=\dimen110
-\Gm@layouthoffset=\dimen111
-\Gm@layoutvoffset=\dimen112
+\Gm@bindingoffset=\dimen107
+\Gm@wd@mp=\dimen108
+\Gm@odd@mp=\dimen109
+\Gm@even@mp=\dimen110
+\Gm@layoutwidth=\dimen111
+\Gm@layoutheight=\dimen112
+\Gm@layouthoffset=\dimen113
+\Gm@layoutvoffset=\dimen114
 \Gm@dimlist=\toks16
 
 ("C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg"))
@@ -130,66 +154,66 @@ Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
  ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen113
-\captionmargin@=\dimen114
-\captionwidth=\dimen115
-\caption@tempdima=\dimen116
-\caption@indent=\dimen117
-\caption@parindent=\dimen118
-\caption@hangindent=\dimen119
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@tempdima=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
 )
 \c@ContinuedFloat=\count111
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen120
-\lightrulewidth=\dimen121
-\cmidrulewidth=\dimen122
-\belowrulesep=\dimen123
-\belowbottomsep=\dimen124
-\aboverulesep=\dimen125
-\abovetopsep=\dimen126
-\cmidrulesep=\dimen127
-\cmidrulekern=\dimen128
-\defaultaddspace=\dimen129
+\heavyrulewidth=\dimen122
+\lightrulewidth=\dimen123
+\cmidrulewidth=\dimen124
+\belowrulesep=\dimen125
+\belowbottomsep=\dimen126
+\aboverulesep=\dimen127
+\abovetopsep=\dimen128
+\cmidrulesep=\dimen129
+\cmidrulekern=\dimen130
+\defaultaddspace=\dimen131
 \@cmidla=\count112
 \@cmidlb=\count113
-\@aboverulesep=\dimen130
-\@belowrulesep=\dimen131
+\@aboverulesep=\dimen132
+\@belowrulesep=\dimen133
 \@thisruleclass=\count114
 \@lastruleclass=\count115
-\@thisrulewidth=\dimen132
+\@thisrulewidth=\dimen134
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lettrine\lettrine.sty"
 File: lettrine.sty 2015/08/31 v1.9 (Daniel Flipo)
 \c@DefaultLines=\count116
 \c@DefaultDepth=\count117
-\DefaultFindent=\dimen133
-\DefaultNindent=\dimen134
-\DefaultSlope=\dimen135
-\DiscardVskip=\dimen136
+\DefaultFindent=\dimen135
+\DefaultNindent=\dimen136
+\DefaultSlope=\dimen137
+\DiscardVskip=\dimen138
 \L@lbox=\box26
 \L@tbox=\box27
 \c@L@lines=\count118
 \c@L@depth=\count119
-\L@Pindent=\dimen137
-\L@Findent=\dimen138
-\L@Nindent=\dimen139
-\L@lraise=\dimen140
-\L@first=\dimen141
-\L@next=\dimen142
-\L@slope=\dimen143
-\L@height=\dimen144
-\L@novskip=\dimen145
-\LettrineWidth=\dimen146
-\LettrineHeight=\dimen147
-\LettrineDepth=\dimen148
+\L@Pindent=\dimen139
+\L@Findent=\dimen140
+\L@Nindent=\dimen141
+\L@lraise=\dimen142
+\L@first=\dimen143
+\L@next=\dimen144
+\L@slope=\dimen145
+\L@height=\dimen146
+\L@novskip=\dimen147
+\LettrineWidth=\dimen148
+\LettrineHeight=\dimen149
+\LettrineDepth=\dimen150
 
 Loading lettrine.cfg
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lettrine\lettrine.cfg"))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip43
-\enit@outerparindent=\dimen149
+\enit@outerparindent=\dimen151
 \enit@toks=\toks17
 \enit@inbox=\box28
 \enitdp@description=\count120
@@ -207,12 +231,12 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box29
 \beforetitleunit=\skip49
 \aftertitleunit=\skip50
-\ttl@plus=\dimen150
-\ttl@minus=\dimen151
+\ttl@plus=\dimen152
+\ttl@minus=\dimen153
 \ttl@toksa=\toks18
-\titlewidth=\dimen152
-\titlewidthlast=\dimen153
-\titlewidthfirst=\dimen154
+\titlewidth=\dimen154
+\titlewidthlast=\dimen155
+\titlewidthfirst=\dimen156
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\block.tss"
 File: block.tss 2011/12/15
@@ -243,8 +267,8 @@ Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package hobsub Info: Skipping package `ifvtex' (already loaded).
@@ -284,7 +308,7 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen155
+\@linkdim=\dimen157
 \Hy@linkcounter=\count121
 \Hy@pagecounter=\count122
 
@@ -309,10 +333,10 @@ Package hyperref Info: Bookmarks ON on input line 4688.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen156
+\XeTeXLinkMargin=\dimen158
 \Fld@menulength=\count125
-\Field@Width=\dimen157
-\Fld@charsize=\dimen158
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -351,29 +375,29 @@ Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 )
 \Hy@SectionHShift=\skip63
 ) (Paper.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Try loading font information for T1+pplx on input line 90.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Try loading font information for T1+pplx on input line 91.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pplx.fd"
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
 )
-\big@size=\dimen159
-LaTeX Info: Redefining \microtypecontext on input line 90.
+\big@size=\dimen161
+LaTeX Info: Redefining \microtypecontext on input line 91.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -420,7 +444,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring OFF on input line 90.
+Package hyperref Info: Link coloring OFF on input line 91.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -429,32 +453,32 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count133
 )
-LaTeX Info: Redefining \ref on input line 90.
-LaTeX Info: Redefining \pageref on input line 90.
-LaTeX Info: Redefining \nameref on input line 90.
+LaTeX Info: Redefining \ref on input line 91.
+LaTeX Info: Redefining \pageref on input line 91.
+LaTeX Info: Redefining \nameref on input line 91.
  (Paper.out) (Paper.out)
 \@outlinefile=\write3
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 94.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 94.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 95.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 95.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pplx.fd"
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 94.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 95.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 94.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 95.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 94.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 95.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 94.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 95.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -466,16 +490,16 @@ Package microtype Info: Loading generic settings for font family
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplx/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for OMS+pplx on input line 94.
-LaTeX Font Info:    No file OMSpplx.fd. on input line 94.
+LaTeX Font Info:    Try loading font information for OMS+pplx on input line 95.
+LaTeX Font Info:    No file OMSpplx.fd. on input line 95.
 
 
 LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textasteriskcentered' on input line 94.
+(Font)              for symbol `textasteriskcentered' on input line 95.
 
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 94.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 95.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\se-ascii-print.def"
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 )
@@ -484,68 +508,68 @@ Package microtype Info: Character `029' is missing
 (microtype)             Ignoring protrusion settings for this character.
 
 
-LaTeX Warning: Reference `sec:method' on page 1 undefined on input line 112.
+LaTeX Warning: Reference `sec:method' on page 1 undefined on input line 113.
 
 
-LaTeX Warning: Reference `sec:results' on page 1 undefined on input line 112.
+LaTeX Warning: Reference `sec:results' on page 1 undefined on input line 113.
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 105--116
+Underfull \hbox (badness 1418) in paragraph at lines 106--117
 \T1/pplx/m/n/10 or more op-er-a-tors, so the in-creas-ing use
  []
 
 
-Underfull \hbox (badness 3000) in paragraph at lines 105--116
+Underfull \hbox (badness 3000) in paragraph at lines 106--117
 \T1/pplx/m/n/10 ve-hi-cles and thus re-quire a de-crease of
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 105--116
+Underfull \hbox (badness 2671) in paragraph at lines 106--117
 \T1/pplx/m/n/10 tonomously and changes the role of an
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--116
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
 
  []
 
 
-Underfull \hbox (badness 6741) in paragraph at lines 105--116
+Underfull \hbox (badness 6741) in paragraph at lines 106--117
 \T1/pplx/m/n/10 Supportive tools that sup-port col-lab-o-ra-
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 105--116
+Underfull \hbox (badness 1810) in paragraph at lines 106--117
 \T1/pplx/m/n/10 strengths of both hu-mans and au-ton-omy
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 105--116
+Underfull \hbox (badness 1221) in paragraph at lines 106--117
 \T1/pplx/m/n/10 trust and worse per-for-mance in terms of
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 105--116
+Underfull \hbox (badness 2460) in paragraph at lines 106--117
 \T1/pplx/m/n/10 to an (in)correct so-lu-tion and sit-u-a-tional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--116
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
 
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 105--116
+Underfull \hbox (badness 1320) in paragraph at lines 106--117
 \T1/pplx/m/n/10 users had dif-fer-ent in-ter-pre-ta-tions of (the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--116
+Underfull \hbox (badness 10000) in paragraph at lines 106--117
 
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 105--116
+Underfull \hbox (badness 5985) in paragraph at lines 106--117
 \T1/pplx/m/n/10 These re-sults sug-gest that align-ing the
  []
 
@@ -556,77 +580,77 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 1831) in paragraph at lines 124--143
+Underfull \hbox (badness 1831) in paragraph at lines 125--144
 \T1/pplx/m/n/10 their goals and con-straints for a spe-cific
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 124--143
+Underfull \hbox (badness 1348) in paragraph at lines 125--144
 \T1/pplx/m/n/10 mis-sion to the sys-tem so the au-toma-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--143
+Underfull \hbox (badness 10000) in paragraph at lines 125--144
 
  []
 
 
-Underfull \hbox (badness 4060) in paragraph at lines 124--143
+Underfull \hbox (badness 4060) in paragraph at lines 125--144
 \T1/pplx/m/n/10 To del-e-gate tasks to au-toma-tion, Miller
  []
 
 
-Underfull \hbox (badness 3557) in paragraph at lines 124--143
+Underfull \hbox (badness 3557) in paragraph at lines 125--144
 \T1/pplx/m/n/10 ar-chi-tec-ture con-tains pre-de-ter-mined plays
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--143
+Underfull \hbox (badness 10000) in paragraph at lines 125--144
 
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 124--143
+Underfull \hbox (badness 1275) in paragraph at lines 125--144
 \T1/pplx/m/n/10 suc-cess-ful out-come of an op-er-a-tion when
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--143
+Underfull \hbox (badness 10000) in paragraph at lines 125--144
 
  []
 
 
-Underfull \hbox (badness 3039) in paragraph at lines 124--143
+Underfull \hbox (badness 3039) in paragraph at lines 125--144
 \T1/pplx/m/n/10 The com-man-der's in-tent is build up of
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 124--143
+Underfull \hbox (badness 1168) in paragraph at lines 125--144
 \T1/pplx/m/n/10 trine Com-mit-tee, 2013), the in-tent should
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 124--143
+Underfull \hbox (badness 1655) in paragraph at lines 125--144
 \T1/pplx/m/n/10 pro-vide clear-ness about the ef-fects to be
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--143
+Underfull \hbox (badness 10000) in paragraph at lines 125--144
 
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 124--143
+Underfull \hbox (badness 2376) in paragraph at lines 125--144
 \T1/pplx/m/n/10 The method sec-tion of the com-man-der's
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 124--143
+Underfull \hbox (badness 1354) in paragraph at lines 125--144
 \T1/pplx/m/n/10 ex-e-cu-tion of an op-er-a-tion. Sys-tems and
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 124--143
+Underfull \hbox (badness 1867) in paragraph at lines 125--144
 \T1/pplx/m/n/10 what the com-man-der ex-pects from them,
  []
 
@@ -634,270 +658,251 @@ Underfull \hbox (badness 1867) in paragraph at lines 124--143
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-Underfull \hbox (badness 1867) in paragraph at lines 145--149
+Underfull \hbox (badness 1867) in paragraph at lines 146--150
 \T1/pplx/m/n/10 To struc-ture the var-i-ous ob-jec-tives of an
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--149
+Underfull \hbox (badness 10000) in paragraph at lines 146--150
 
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 145--149
+Underfull \hbox (badness 1502) in paragraph at lines 146--150
 \T1/pplx/m/n/10 The five lay-ers of ab-strac-tion are la-beled
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 145--149
+Underfull \hbox (badness 1168) in paragraph at lines 146--150
 \T1/pplx/m/n/10 dif-fer-ently in for-mer stud-ies. The la-bels
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 152--153
+Underfull \hbox (badness 1194) in paragraph at lines 153--154
 []\T1/pplx/m/n/10 Physical func-tions: The func-tions the
  []
 
-! Undefined control sequence.
-l.160 ^^I^^I\includegraphics
-                            [width=0.4\textwidth]{images/ads.png}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   ]
-l.160 ^^I^^I\includegraphics[width=0.4\textwidth]
-                                                 {images/ads.png}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   ]
-l.160 ^^I^^I\includegraphics[width=0.4\textwidth]
-                                                 {images/ads.png}
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
+File: images/ads.png Graphic file (type QTm)
+<use  "images/ads.png" >
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 161.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 162.
 
-Underfull \hbox (badness 1596) in paragraph at lines 156--174
+Underfull \hbox (badness 1596) in paragraph at lines 157--175
 \T1/pplx/m/n/10 iden-ti-fied val-ues in lit-er-a-ture for mil-i-tary
  []
 
 
-Underfull \hbox (badness 1960) in paragraph at lines 156--174
+Underfull \hbox (badness 1270) in paragraph at lines 157--175
+\T1/pplx/m/n/10 and gen-eral hu-man val-ues for au-to-mated
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 157--175
+\T1/pplx/m/n/10 in-tel-li-gent au-tonomous sys-tems have the
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 157--175
 \T1/pplx/m/n/10 re-quire nor-ma-tive in-for-ma-tion about how
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--174
+Underfull \hbox (badness 10000) in paragraph at lines 157--175
 
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 156--174
+Underfull \hbox (badness 3635) in paragraph at lines 157--175
 \T1/pplx/m/n/10 While nor-ma-tive guide-lines can be in-te-
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 156--174
+Underfull \hbox (badness 2717) in paragraph at lines 157--175
 \T1/pplx/m/n/10 grated in and com-mu-ni-cated to sys-tems
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 156--174
+Underfull \hbox (badness 1009) in paragraph at lines 157--175
 \T1/pplx/m/n/10 the phys-i-cal func-tions within that pro-cess
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 156--174
+Underfull \hbox (badness 2538) in paragraph at lines 157--175
 \T1/pplx/m/n/10 con-sid-ered, there typ-i-cally is no gen-eral
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 156--174
+Underfull \hbox (badness 1755) in paragraph at lines 157--175
 \T1/pplx/m/n/10 op-ti-mal set-ting for each pa-ram-e-ter, since
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 156--174
+Underfull \hbox (badness 1558) in paragraph at lines 157--175
 \T1/pplx/m/n/10 that con-flict each other and thus re-quire
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 156--174
+Underfull \hbox (badness 1163) in paragraph at lines 157--175
 \T1/pplx/m/n/10 the de-sign phase of a sys-tem al-ready so
  []
 
 [3]
-Underfull \hbox (badness 1895) in paragraph at lines 176--177
-[]\T1/pplx/m/n/10 Information qual-ity and quan-tity:
- []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 197--204
-
- []
-
-
-Underfull \hbox (badness 2941) in paragraph at lines 197--204
-\T1/pplx/m/n/10 The full the-sis shows an ex-am-ple of a
- []
-
-
-Underfull \hbox (badness 4242) in paragraph at lines 197--204
-\T1/pplx/m/n/10 pro-to-type for an in-ter-ac-tion de-sign pat-
- []
-
-
-Underfull \hbox (badness 1596) in paragraph at lines 197--204
-\T1/pplx/m/n/10 tern (proto-pattern) to com-mu-ni-cate these
- []
-
-
-Underfull \hbox (badness 1048) in paragraph at lines 208--218
-\T1/pplx/m/n/10 per-for-mance. The chal-lenge for the user
- []
-
-
-Underfull \hbox (badness 1226) in paragraph at lines 208--218
-\T1/pplx/m/n/10 sit-u-a-tions, this might be im-pos-si-ble, thus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--218
-
- []
-
-
-Underfull \hbox (badness 4595) in paragraph at lines 208--218
-\T1/pplx/m/n/10 Transparency in-for-ma-tion should pro-vide
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 208--218
-\T1/pplx/m/n/10 phys-i-cal func-tions (TODO: Find source in
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 208--218
-\T1/pplx/m/n/10 not have worked suf-fi-ciently to de-ter the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--218
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--218
-\T1/pplx/m/n/10 The dilem-mas be-tween the nor-ma-tive
- []
-
-
-Underfull \hbox (badness 1062) in paragraph at lines 208--218
-\T1/pplx/m/n/10 ma-tion should im-prove the un-der-stand-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--218
-
- []
-
-
-Underfull \hbox (badness 3250) in paragraph at lines 208--218
-\T1/pplx/m/n/10 A suit-able method to make the sys-tem
- []
-
-
-Underfull \hbox (badness 1270) in paragraph at lines 208--218
-\T1/pplx/m/n/10 more trans-par-ent, con-sid-er-ing the re-quire-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--218
-
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \hbox (badness 1895) in paragraph at lines 177--178
+[]\T1/pplx/m/n/10 Information qual-ity and quan-tity:
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 198--205
+
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 198--205
+\T1/pplx/m/n/10 The full the-sis shows an ex-am-ple of a
+ []
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 198--205
+\T1/pplx/m/n/10 pro-to-type for an in-ter-ac-tion de-sign pat-
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 198--205
+\T1/pplx/m/n/10 tern (proto-pattern) to com-mu-ni-cate these
+ []
+
+File: images/piechart.png Graphic file (type QTm)
+<use  "images/piechart.png" >
+Overfull \hbox (1.39807pt too wide) in paragraph at lines 220--221
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 209--226
+\T1/pplx/m/n/10 per-for-mance. The chal-lenge for the user
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 209--226
+\T1/pplx/m/n/10 sit-u-a-tions, this might be im-pos-si-ble, thus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--226
+
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 209--226
+\T1/pplx/m/n/10 Transparency in-for-ma-tion should pro-vide
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 209--226
+\T1/pplx/m/n/10 phys-i-cal func-tions (TODO: Find source in
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 209--226
+\T1/pplx/m/n/10 not have worked suf-fi-ciently to de-ter the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--226
+\T1/pplx/m/n/10 The dilem-mas be-tween the nor-ma-tive
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 209--226
+\T1/pplx/m/n/10 ma-tion should im-prove the un-der-stand-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--226
+
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 209--226
+\T1/pplx/m/n/10 A suit-able method to make the sys-tem
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 209--226
+\T1/pplx/m/n/10 more trans-par-ent, con-sid-er-ing the re-quire-
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 209--226
+\T1/pplx/m/n/10 of the user for that nor-ma-tive guide-lines,
+ []
+
+
+Underfull \vbox (badness 6284) has occurred while \output is active []
+
  [5]
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
 \T1/pplx/m/n/10 Dependent mea-sures in-cluded op-er-a-tor
  []
 
 
-Underfull \hbox (badness 5970) in paragraph at lines 228--229
+Underfull \hbox (badness 5970) in paragraph at lines 236--237
 \T1/pplx/m/n/10 per-for-mance mea-sures (ap-pro-pri-ate (non-
  []
 
 Missing character: There is no ’ in font pplr9e!
 Missing character: There is no ’ in font pplr9e!
 
-Underfull \hbox (badness 1303) in paragraph at lines 231--234
+Underfull \hbox (badness 1303) in paragraph at lines 239--242
 \T1/pplx/m/n/10 and giv-ing in-formed con-sent, par-tic-i-pants
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--234
+Underfull \hbox (badness 10000) in paragraph at lines 239--242
 
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 231--234
+Underfull \hbox (badness 1215) in paragraph at lines 239--242
 \T1/pplx/m/n/10 ad-di-tional trans-parency in-for-ma-tion. The
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 231--234
+Underfull \hbox (badness 1231) in paragraph at lines 239--242
 \T1/pplx/m/n/10 task. There-after, the par-tic-i-pants had to
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 236--239
+Underfull \hbox (badness 1152) in paragraph at lines 244--247
 \T1/pplx/m/n/10 four mis-sions each. In one of two mis-
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 273--275
-\T1/pplx/m/n/10 A state-ment re-quir-ing ci-ta-tion
- []
 
-
-Underfull \hbox (badness 1742) in paragraph at lines 273--275
-\T1/pplx/m/n/10 [[]]. Lorem ip-sum
- []
-
-
-Underfull \hbox (badness 1226) in paragraph at lines 273--275
-\T1/pplx/m/n/10 in sapien. Lorem ip-sum do-lor sit amet,
- []
-
-[7]
-Underfull \hbox (badness 2486) in paragraph at lines 287--291
+Underfull \hbox (badness 2486) in paragraph at lines 259--263
 []\T1/pplx/m/n/10 Figueredo, A. J.
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 296.
-[8
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 296.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
+[7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 268.
  (Paper.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 296.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 296.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 268.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 268.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -905,18 +910,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 296.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 268.
  ) 
 Here is how much of TeX's memory you used:
- 12121 strings out of 428724
- 177864 string characters out of 3164157
- 294246 words of memory out of 3000000
- 15399 multiletter control sequences out of 15000+200000
+ 12474 strings out of 428724
+ 182187 string characters out of 3164157
+ 300293 words of memory out of 3000000
+ 15727 multiletter control sequences out of 15000+200000
  49160 words of font info for 74 fonts, out of 3000000 for 9000
  1096 hyphenation exceptions out of 8191
- 37i,13n,48p,1556b,537s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,13n,48p,1556b,541s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Paper.pdf (8 pages).
+Output written on Paper.pdf (7 pages).

@@ -30,6 +30,7 @@
 
 \usepackage[english]{babel} % Language hyphenation and typographical rules
 
+\usepackage{graphicx}
 \usepackage[hmarginratio=1:1,top=32mm,columnsep=20pt]{geometry} % Document margins
 \usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption} % Custom captions under/above floats in tables or figures
 \usepackage{booktabs} % Horizontal rules in tables
@@ -154,13 +155,13 @@ The five layers of abstraction are labeled differently in former studies. The la
 \end{enumerate}
 %
 The resulting ADS in Figure \ref{fig:ads} is based on literature about similar domains (Baker et al, 2008; Jenkins, 2012; Martinez et al., 2001; ). The user values are based on formerly identified values in literature for military commanders (Streefkerk et al., 2014; Jenkins, 2012), unmanned robot operators for military (Parasuraman and Riley, 1997; Parasuraman et al., 2003; Chen et al., 2011; Chen and Barnes, 2012a,b; Barnes et al., 2014; Clare et al., 2012b; Cummings and Bruni, 2010) and USAR (Harbers et al., 2015) applications and general human values for automated systems (Friedman et al., 2013).
-\\
-\begin{figure}[h]
+%
+\begin{figure*}[h]
 	\centering
-		\includegraphics[width=0.4\textwidth]{images/ads.png}
+		\includegraphics[width=0.9\textwidth]{images/ads.png}
 	\caption{The abstraction decomposition space for the UV domain}
 	\label{fig:ads}
-\end{figure}
+\end{figure*}
 %
 Playbook describes the physical functions in terms of what tasks have to be executed. However, intelligent autonomous systems have the ability to adjust their behavior and therefore require normative information about how they should execute tasks, e.g. fast, careful or aggressive. Normative guidelines should provide information how physical functions have to be executed and allow intelligent systems to adjust their behavior to the situation and preferences of the user, which are typically described in the commander's intent. We propose to extend the abstraction layer with these normative guidelines. Since the guidelines describe how physical functions should be executed, they will be included at the same level of abstraction in the ADS.
 \\\\
@@ -213,7 +214,14 @@ Transparency information should provide insight in the consequences of decisions
 The dilemmas between the normative guidelines of the user might lead to user confusion about decisions of the system, this is supported by the results of the user study. A system should provide more transparency about the reasoning behind a certain output. We focus on providing transparency about the dilemmas between the normative guidelines of the user, in order to support the user's understanding that adjustment of the solution would result in worse performance for other guidelines. The amount of guidelines can vary, depending on the phase of the operation. Besides, all guidelines might conflict all the other guidelines and the transparency information should improve the understanding of the dilemma between these parameters. These characteristics require a flexible method to adjust the transparency information to the situation. 
 \\\\
 A suitable method to make the system more transparent, considering the requirements, is the use of a pie chart icon. These icons can show the compliance of the solution of the system with the user objectives. Each component of the pie chart shows a letter that corresponds with an objective, in this case a normative guideline. The size and color of the component is relative to the performance of the system's solution related to the intent of the user for that normative guidelines, on a scale of 0 (red) to 100 (green). The pie chart-shape makes it more intuitive that expansion of one component of the pie chart (so better compliance with a specific normative guideline) requires other pieces of the pie chart to shrink. This represents the dilemma about the conflicts between the normative guidelines. This method to improve system transparency is already used and proven to be effective in prior research by Mercado et al. (2016), who used a pie chart as a sprocket graphic for a similar case, but with three fixed parameters.  
-\\\\
+%
+\begin{figure}[h]
+	\centering
+		\includegraphics[width=0.48\textwidth]{images/piechart.png}
+	\caption{Pie chart icon to increase system transparency}
+	\label{fig:piechart}
+\end{figure}
+\\
 The effects of the use of eSupport are investigated with a user study, this is described in the next paragraph.
 
 \section{Method}
@@ -222,7 +230,7 @@ The effects of the use of eSupport are investigated with a user study, this is d
 Participants are a convenience sample of 24 adults and included 16 men and 8 women. All participants were students, former student and employees of the Technical University of Delft. 2 participants had 2 years of military experience. 
 
 \subsection{Apparatus}
-The experiment required two monitors, a Dell 24-in. LED color monitor was used to show the missions and required a mouse for interaction. A Philips 17-in. LED color monitor was used to show the instructions and required keyboard for interaction. See Figure 4.1 for an overview. The experiment required the CommonSense Framework of TNO with the additional eSupport application for the scheduling task. The instructions were shown using Microsoft PowerPoint. An Hewlett Packard Spectre 13-3000 notebook was used to run the CommonSense Framework with eSupport applications and a Dell Latitude E6530 notebook to run PowerPoint. An additional A4-paper (cheat-)sheet (see I) provided the participants with basic information, which was also shown during the instruction. The participants were allowed to use this sheet during the missions.
+The experiment required two monitors, a Dell 24-in. LED color monitor was used to show the missions and required a mouse for interaction. A Philips 17-in. LED color monitor was used to show the instructions and required keyboard for interaction. The experiment required the CommonSense Framework of TNO with the additional eSupport application for the scheduling task. The instructions were shown using Microsoft PowerPoint. An Hewlett Packard Spectre 13-3000 notebook was used to run the CommonSense Framework with eSupport applications and a Dell Latitude E6530 notebook to run PowerPoint. An additional A4-paper (cheat-)sheet (see I) provided the participants with basic information, which was also shown during the instruction. The participants were allowed to use this sheet during the missions.
 
 \subsection{Dependent measures}
 Dependent measures included operator performance measures (appropriate (non-)compliance, scheduling duration and SA), self assessed trust and CTL (raw NASA-TLX). 
@@ -238,44 +246,8 @@ Besides, to prevent undesired effects of unforeseen differences in the two sets 
  %------------------------------------------------
 
 \section{Results}
-The parameter settings indeed led to user confusion about decisions of the system. 
+TODO: Present results
 
-\begin{table}
-\caption{Example table}
-\centering
-\begin{tabular}{llr}
-\toprule
-\multicolumn{2}{c}{Name} \\
-\cmidrule(r){1-2}
-First name & Last Name & Grade \\
-\midrule
-John & Doe & $7.5$ \\
-Richard & Miles & $2$ \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\blindtext % Dummy text
-
-\begin{equation}
-\label{eq:emc}
-e = mc^2
-\end{equation}
-
-\blindtext % Dummy text
-
-%------------------------------------------------
-
-\section{Discussion}
-
-\subsection{Subsection One}
-
-A statement requiring citation \cite{Figueredo:2009dg}.
-\blindtext % Dummy text
-
-\subsection{Subsection Two}
-
-\blindtext % Dummy text
 
 %----------------------------------------------------------------------------------------
 %	REFERENCE LIST
